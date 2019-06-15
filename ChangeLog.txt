@@ -1,4 +1,11 @@
 
+Interkosmos 0.2 [2019-06-15]
+-------------------------------
+
+	- Fix Empty ScienceDef
+	- Add Tweakscale Patch made by @Hraban
+	
+	
 Interkosmos 0.1 [2019-06-10]
 -------------------------------
 
