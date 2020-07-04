@@ -1,4 +1,8 @@
+Interkosmos 0.3 [2020-07-04]
+-------------------------------
 
+	- Reduce Mass ratio for crystals ressources (for Knes compatibility)
+	
 Interkosmos 0.2 [2019-06-15]
 -------------------------------
 
