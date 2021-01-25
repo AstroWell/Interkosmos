@@ -2,6 +2,7 @@ Interkosmos 0.4 [2021-01-25]
 -------------------------------
 
 	- Add KSP 1.11 inventory support
+	- Fix Parts Mass in 1.11
 	
 Interkosmos 0.3 [2020-07-04]
 -------------------------------
