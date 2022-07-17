@@ -1,7 +1,8 @@
-Interkosmos 0.5 [2022-07-25]
+Interkosmos 0.5 [2022-07-17]
 -------------------------------
 
 	- Add Localization config
+	- Add French Language
 	- Reduce Crystals mass
 	
 Interkosmos 0.4 [2021-01-25]
